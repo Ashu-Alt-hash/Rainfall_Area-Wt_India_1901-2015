@@ -1,7 +1,9 @@
 # 🌧️ Rainfall Analysis of India (1901–2015) With Python
 
 > A data science project analyzing over a century of rainfall data in India to uncover patterns, anomalies, and climate change indicators using visualization, statistics, and forecasting models.
-> **Note:** You can find or download the dataset from [data.gov.in](https://data.gov.in/) or https://statso.io/rainfall-trends-in-india-case-study/ or other open government data sources.
+
+>  **Note:** You can find or download the dataset from [data.gov.in](https://data.gov.in/) or https://statso.io/rainfall-trends-in-india-case-study/ or other open government data sources.
+
 > I would like to express my sincere gratitude to Aman Kharwal Sir for his invaluable guidance, continuous support, and encouragement throughout the course of this project. His expert advice, insightful suggestions, and constructive feedback were essential to the successful completion of this work.
 
 
@@ -43,6 +45,7 @@ The dataset used is:
 - Contains monthly, seasonal, and annual rainfall data across India (area-weighted averages)
   
 📝 Results Summary
+
 🌧️ Monsoon (June–September) is the dominant contributor to total annual rainfall.
 
 ⚠️ Detected multiple drought and extreme rainfall years.
